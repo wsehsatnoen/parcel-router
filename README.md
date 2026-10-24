@@ -1,9 +1,8 @@
-# WGUPS Application
-*A WMS (Warehouse Management System) created for WGU's C950 Task Two PA.*
+# Parcel Router Application
+*A WMS (Warehouse Management System) created for school.*
 
 When starting this project, the focus was to develop an understanding of different Data Structures
 and Algorithms, hence the name of the class. However, my attempt was to take it slightly further.
-
 
 Because the class is heavily function based, I decided to challenge myself and deviate away from OOP
 (Object-Oriented Programming), and practice FP (Functionality Programming). By doing so, I minimized
